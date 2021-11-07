@@ -1,0 +1,292 @@
+
+
+/*background*/
+
+
+    body{
+        background-image: url(https://uploads.lebonbon.fr/source/2018/lyon/decembre/shutterstock_280295297.jpg);  
+        background-color: grey;
+        background-size: cover;
+    }
+    .bodywine{
+        background-image: url(https://www.villaflorentine.com/media/cache/jadro_resize/rc/YY1SbS7o1621257364/jadroRoot/medias/57e518ad7a2e4/5ef4ca65b7dfc/terrasses-de-lyon-alexandre-moulard-42-.jpg);
+        background-color: grey;
+        background-size: cover;
+    }
+    .div1{
+        background-color: beige;
+      
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;
+        left: -1%;
+        top: -8%;
+    }
+    .div2{
+        background-color: beige;
+        
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;  
+        right: -522%; 
+        top: 600%;
+         
+    }
+    .history{
+        background-image: url(https://traveltop6.com/assets/media/places/musee-gallo-romain-de-lyon/sbkgkcwkanlzvqtbdgpt.jpg);
+        background-color: grey;
+        background-size: cover;
+    }
+    .div1{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;
+        left: -1%;
+        top: -8%;
+    }
+    .div2{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;  
+        right: -522%; 
+        top: 115%;
+         
+    }
+    .bocuse{
+        background-image: url(https://www.francetvinfo.fr/pictures/8GV6gRIiF3Q1grDZAriiv2I4pxA/1200x900/2018/01/20/phpcq8kwe_1.jpg);
+        background-color: grey;
+        background-size: cover;
+    }
+    .div1{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;
+        left: -1%;
+        top: -8%;
+    }
+    .div2{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;  
+        right: -522%; 
+        top: 115%;
+         
+    }
+    .contact{
+        background-image: url(https://www.vanupied.com/wp-content/uploads/Lyon_place-terreaux_1900.jpg);
+        background-color: grey;
+        background-size: cover;
+    }
+    .div1{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;
+        left: -1%;
+        top: -8%;
+        }
+        .div2{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;  
+        right: -522%; 
+        top: 115%;
+        } 
+
+    .about{
+        background-image: url(https://scontent.ftpe13-1.fna.fbcdn.net/v/t1.6435-9/117812818_3460270663982983_4387737428723807977_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=VghvrPUBTUwAX978JfY&_nc_ht=scontent.ftpe13-1.fna&oh=ba9ed2e8a9d240fcc19c6f99bcd30b73&oe=61A2B05F);
+        background-color: grey;
+        background-size: cover;
+
+    }
+    .div1{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;
+        left: -1%;
+        top: -8%;
+    }
+    .div2{
+        background-color: beige ;
+        opacity: 1;
+        width: 250px;
+        padding: 20px;
+        margin: 50px;
+        border: 20px solid black;
+        position: absolute;  
+        right: -522%; 
+        top: 115%;
+         
+    }
+
+/*logo*/
+
+
+    header{
+        padding-top: 5px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        border-radius: 30% 20%;
+        text-align: center;
+        height: 180px;
+    }
+
+/*Inline button set*/
+
+
+    nav a {
+        margin-top: 270px;
+        width: 148.5px;
+        background-color: black;
+        color: white;
+        float: left;
+        display: block;
+        text-align: center;
+        padding: 15px 15px;
+        text-decoration: none;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+
+     nav a:hover{
+        background-color: lightyellow;
+        color: black;
+    }
+
+
+/*Text-----------------*/
+
+
+    h1{
+        font-weight: lighter;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 30px;
+    }
+    h1:hover{
+        background-color: black;
+        color:lightyellow;
+    }
+    
+    h1{
+    
+        color: black;
+    }
+    h2{
+        font-weight: lighter;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 30px;
+
+    }
+    
+    p{
+        font-weight: lighter;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    p2{
+        font-weight: lighter;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    }
+
+
+/*Text Hover------------------*/
+
+
+    p:hover{
+    
+        background-color: black;
+        color: white;
+
+
+
+
+     } 
+     
+    
+/*Columns set*/
+
+
+    .column1{
+        background-image: url(https://images.prismic.io/figaroimmo/943be1d1-6e3a-4c59-a5f1-97ce8b6ea147_lyon-confinement.jpg?auto=compress,format&rect=0,0,1000,667&w=720&h=480); 
+        float: left;
+        padding: 15px;
+        border: 2px solid black;
+        width: 33.33%;
+        margin-top: 15px;
+    }
+    
+    .column2{
+        background-image: url(https://www.francetvinfo.fr/pictures/tpnHJcIr8Fb9UBlEXCIsE_u1ahU/752x423/2018/01/20/php5BTHBT_1.jpg);
+        float: left;
+        padding: 15px;
+        border: 2px solid black;
+        width: 33.33%;
+        margin-top: 15px;
+    }
+    
+    .column3{
+        background-image: url(https://worlddatingguides.com/wp-content/uploads/2018/10/hook-pick-up-bars-lyon-ladies-night-get-laid-650x366.jpg) ;
+        float: left;
+        padding: 15px;
+        border: 2px solid black;
+        width: 33.33%;
+        margin-top: 15px;
+    }
+
+
+    /*Tables positioning + border+ clear*/
+
+
+    .row{
+        display: table;
+        clear: both;
+    }
+    *{
+        box-sizing: border-box;
+        border-radius: 25px;
+    }
+
+
+    /*Copyright*/
+
+
+    footer{
+        text-align: center;
+        background-color: black;
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 18px;
+    }
+    
+
+
+    
